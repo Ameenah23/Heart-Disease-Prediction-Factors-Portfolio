@@ -1,4 +1,6 @@
-Heart Disease
+# Heart-Disease-Prediction-Factors
+
+Introduction (Heart Disease)
 
 According to the Centers for Disease Control (CDC), heart disease is one of the high rank health problem that causes death for people in the US. About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking.  Other key indicator include diabetic status, obesity (high BMI), not getting enough physical activity or drinking too much alcohol. 
 
@@ -24,7 +26,6 @@ Objective
 
 Conclusion 
 After experimenting with different models I concluded that RandomForestClassifier with SMOTE resampling yield the best recall and precsion for the heart diseas class (91%), and  XGBClassifier (SMOTE)) yields the best recall for the no heart disease class (96%). An application of our model is to be used by medical experts in selecting the patients suspected of heart disease in order to conduct further testing on them.
-# Heart-Disease-Prediction-Factors
 
 This project contans three files for the Raw Data Collecting:
 - Part 1: Data Analysis
