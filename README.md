@@ -28,7 +28,11 @@ Objective
 Conclusion 
 After experimenting with different models I concluded that RandomForestClassifier with SMOTE resampling yield the best recall and precsion for the heart diseas class (91%), and  XGBClassifier (SMOTE)) yields the best recall for the no heart disease class (96%). An application of our model is to be used by medical experts in selecting the patients suspected of heart disease in order to conduct further testing on them.
 
-This project contans three files for the Raw Data Collecting:
+This project contains three files for the Raw Data Collecting:
 - Part 1: Data Analysis
 - Part 2: Encoding, Features Engineering, Feature Selection
 - Part 3: Machine Learning and Deep Learning Models
+
+
+  ![heart10](https://github.com/Ameenah23/Heart-Disease-Prediction-Factors-Portfolio/assets/123785380/cfa044b4-1009-4b37-8d8c-b5858ad7f290)
+
